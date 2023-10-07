@@ -1,2 +1,8 @@
 # AzurePDF2TextEngine
-This is a back-end engine for processing PDF files into text.
+
+An Azure-based service leveraging Python and React to magically convert PDFs to text. Built for scalability and monetization.
+
+
+## Prerequisites
+
+- Azure CLI
